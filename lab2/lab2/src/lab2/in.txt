@@ -1,0 +1,4 @@
+zahar;1.5;50
+cirese;10;20
+flori;5;100
+sare;1;26

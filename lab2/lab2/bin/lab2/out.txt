@@ -1,0 +1,6 @@
+zahar             1.5       50.0
+cirese           10.0       20.0
+flori             5.0      100.0
+sare              1.0       26.0
+Produsul cu cel mai mare pret:cirese           10.0       20.0
+Produsul cu cel mai mic pret:sare              1.0       26.0
